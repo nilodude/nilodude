@@ -1,4 +1,4 @@
-## 🛠️ Main Skills 🥷
+## 🛠️ Main Skills 🎛️
 
 <div align="center" width="100%">
   <a href="https://www.gnu.org/software/bash"
