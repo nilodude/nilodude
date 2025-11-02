@@ -4,23 +4,23 @@
 <link href="https://fonts.googleapis.com/css2?family=Bangers&display=swap" rel="stylesheet">
 
 <div align="center" width="100%">
-  <a href="https://skillicons.dev" style="text-decoration:none;">
-    <img src="https://skillicons.dev/icons?i=bash" />
+  <a href="https://www.gnu.org/software/bash" style="text-decoration:none">
+    <img src="https://skillicons.dev/icons?i=bash"/>
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git" />
+  <a href="https://git-scm.com/" style="text-decoration:none">
+    <img src="https://skillicons.dev/icons?i=git"/>
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker" />
+  <a href="https://skillicons.dev" style="text-decoration:none">
+    <img src="https://skillicons.dev/icons?i=docker"/>
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi" />
+  <a href="https://skillicons.dev" style="text-decoration:none">
+    <img src="https://skillicons.dev/icons?i=fastapi"/>
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py" />
+  <a href="https://skillicons.dev" style="text-decoration:none">
+    <img src="https://skillicons.dev/icons?i=py"/>
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres" />
+  <a href="https://skillicons.dev" style="text-decoration:none">
+    <img src="https://skillicons.dev/icons?i=postgres"/>
   </a>
 </div>
 <div align="center" width="100%">
